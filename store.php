@@ -9,5 +9,6 @@
 <body>
   <h1>Hello World</h1>
   <h2>practice!!!!</h2>
+  <p>このお店はバイクを手頃な価格でゲットできるクーポンがありますよ。</p>
 </body>
 </html>
