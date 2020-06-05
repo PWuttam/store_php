@@ -18,5 +18,49 @@ body {
   border: solid 1px #ddd;
 }
 .item-pic {
-  
+  text-align: center;
+}
+.item-pic img {
+  width: 120%;
+}
+.item-company {
+  margin: 10px 0 20px 0;
+  font-size: 120%;
+  font-weight: bold;
+  text-align: center;
+}
+.item-title {
+  width: 250px;
+  margin: 0 0 20px 25px;
+}
+.item-price {
+  text-align: center;
+  font-size: 140%;
+  color:red;
+}
+.coupon {
+  position: absolute;
+  width: 300px;
+  height: 200px;
+  overflow: hidden;
+  margin: 50px 0 0 800px;
+  border: dashed 1px #bbbbbb;
+  font-size: 120%;
+}
+.orderBox {
+  width: 500px;
+  height: 300px;
+  border: 2px solid #ccc;
+  padding: 10px 15px 20px 15px;
+  margin: 50px 0 0 200px;
+  font-size: 120%;
+}
+.orderBox input {
+  height: 40px;
+  margin: 20px 0 20px 20px;
+  font-size: 120%;
+}
+.coupon title {
+  font-size: 150%;
+  /* margin: 10px 0 20px 0; */
 }
